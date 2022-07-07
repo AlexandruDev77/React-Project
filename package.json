@@ -27,7 +27,7 @@
     "laravel-echo": "^1.5.3",
     "lodash": "^4.17.11",
     "lodash.camelcase": "^4.3.0",
-    "moment": "^2.23.0",
+    "moment": "^2.29.4",
     "normalize-scss": "^7.0.1",
     "popper.js": "^1.14.5",
     "qs": "^6.6.0",
